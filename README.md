@@ -66,5 +66,9 @@ Input Sentence :
 - CSS3 – Styling
 - JavaScript (ES6) – Logic, DOM manipulation, and emoji mapping
 
+## Deployment Link : 
+you can try the project live here : 
+
+
 ## Author : 
 [Tanmay Margaj](https://www.linkedin.com/in/tanmay-margaj-5598542bb)
