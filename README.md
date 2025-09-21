@@ -68,7 +68,7 @@ Input Sentence :
 
 ## Deployment Link : 
 you can try the project live here : 
-
+(https://emoji-translator-eight.vercel.app/)
 
 ## Author : 
 [Tanmay Margaj](https://www.linkedin.com/in/tanmay-margaj-5598542bb)
