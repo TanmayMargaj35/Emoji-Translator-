@@ -36,7 +36,7 @@ emoji-translator/
 ## 🚀 How to Run the Project
 
 ### 1. Clone the Repository : 
-git clone https://github.com/your-username/emoji-translator.git
+git clone https://github.com/TanmayMargaj35/Emoji-Translator-.git
 cd emoji-translator
 
 ### 2. Open in Browser : 
